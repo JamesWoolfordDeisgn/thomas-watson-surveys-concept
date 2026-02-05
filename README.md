@@ -1,15 +1,3 @@
-Phase 2: The GitHub Launch
-
-1. Repository Details
-
-Repository Name: thomas-watson-surveys-concept
-
-Description: A high-end, RICS-compliant digital concept for Thomas Watson Chartered Valuation Surveyors. Built with HTML5, Tailwind CSS, and Lucide Icons to demonstrate a modern, trust-based web presence for the Sunderland property market.
-
-2. README.md Content
-
-Copy and paste the following into your GitHub README.md file:
-
 # Thomas Watson Surveys | Digital Concept
 
 This is a professional web design concept developed for **Thomas Watson (Chartered Valuation Surveyors)** based in Sunderland. 
